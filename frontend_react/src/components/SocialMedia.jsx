@@ -5,13 +5,27 @@ const SocialMedia = () => {
   return (
     <div className="app__social">
       <div>
-        <BsLinkedin />
+        <a
+          href="https://www.linkedin.com/in/mozeswalker/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <BsLinkedin />
+        </a>
       </div>
       <div>
-        <BsGithub />
+        <a
+          href="https://github.com/ADevCalledMo/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <BsGithub />
+        </a>
       </div>
       <div>
-        <BsFillEnvelopeFill />
+        <a href="mailto:contact@mozeswalker.co.uk">
+          <BsFillEnvelopeFill />
+        </a>
       </div>
     </div>
   );
