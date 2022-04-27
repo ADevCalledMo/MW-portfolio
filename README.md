@@ -1,3 +1,3 @@
 # Portfolio Website
-## Live Demo: [Click Here](mozeswalker.co.uk)
+## Live Demo: [Click Here](http://mozeswalker.co.uk)
   
